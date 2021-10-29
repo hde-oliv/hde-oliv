@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hi, there! 👻
 
-<!--
-**hde-oliv/hde-oliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me: 🤔
+- A student at École 42 in São Paulo/Brazil. 🤖
+- I really like music and JRPGs. 🎸
+- Always trying to study japanese. 🇯🇵
+- Now enrolled in DevOps at Anhanguera. 🤖
+------
 
-Here are some ideas to get you started:
+### Toolbox: 🧰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;" align="center">
+  <img src='https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=C&logoColor=white' alt='c' />
+  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white' alt='python' />
+</div>
+<div style="display: flex;" align="center">
+  <img src='https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white' alt='emacs' />
+  <img src='https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white' alt='vim' />
+  <img src='https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white' alt='vagrant' />
+  <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white' alt='docker' />
+  <img src='https://img.shields.io/badge/Actions-2496ED?style=for-the-badge&logo=GitHub%20Actions&logoColor=white' alt='actions' />
+  <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black' alt='linux' />
+</div>
+
+------
+### Stats: 📊
+<div style="display: flex;" align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hde-oliv&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hde-oliv&langs_count=6&layout=compact&theme=github_dark&hide_border=true&hide=html,css,scss,roff,dockerfile,javascript,typescript,makefile,handlebars" />
+</div>
+
+------
+### Contact: 👔
+
+<div style="display: flex;" align="center">
+  <a href="mailto:henriquerocha@tutanota.com">
+    <img src='https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail.Ru&logoColor=white' alt='mail' />
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-de-oliveira-rocha-b6a59220a/">
+    <img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' />
+  </a>
+</div>
