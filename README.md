@@ -4,23 +4,7 @@
 - A student at École 42 in São Paulo/Brazil. 🤖
 - I really like music and JRPGs. 🎸
 - Always trying to study japanese. 🇯🇵
-- Now enrolled in DevOps at Anhanguera. 🤖
-------
-
-### Toolbox: 🧰
-
-<div style="display: flex;" align="center">
-  <img src='https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=C&logoColor=white' alt='c' />
-  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white' alt='python' />
-</div>
-<div style="display: flex;" align="center">
-  <img src='https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white' alt='emacs' />
-  <img src='https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white' alt='vim' />
-  <img src='https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white' alt='vagrant' />
-  <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white' alt='docker' />
-  <img src='https://img.shields.io/badge/Actions-2496ED?style=for-the-badge&logo=GitHub%20Actions&logoColor=white' alt='actions' />
-  <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black' alt='linux' />
-</div>
+- Now enrolled in DevOps at Anhanguera.
 
 ------
 ### Stats: 📊
