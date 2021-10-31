@@ -15,7 +15,6 @@
 
 ------
 ### Contact: 👔
-
 <div style="display: flex;" align="center">
   <a href="mailto:henriquerocha@tutanota.com">
     <img src='https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail.Ru&logoColor=white' alt='mail' />
