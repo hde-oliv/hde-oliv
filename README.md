@@ -4,7 +4,7 @@
 - A student at École 42 in São Paulo/Brazil. 🤖
 - I really like music and JRPGs. 🎸
 - Always trying to study japanese. 🇯🇵
-- Now enrolled in DevOps at Anhanguera.
+- Now enrolled in DevOps at Anhanguera. 👨‍💻
 
 ------
 ### Toolbox: 🧰
