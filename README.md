@@ -28,7 +28,7 @@
 ### Stats: 📊
 <div style="display: flex;" align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hde-oliv&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hde-oliv&langs_count=6&layout=compact&theme=github_dark&hide_border=true&hide=html,css,scss,roff,dockerfile,javascript,typescript,makefile,handlebars" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hde-oliv&langs_count=6&layout=compact&theme=github_dark&hide_border=true&hide=html,css,scss,roff,makefile,handlebars" />
 </div>
 
 ------
