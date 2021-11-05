@@ -12,10 +12,12 @@
 <div style="display: flex;" align="center">
   <img src='https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=C&logoColor=white' alt='c' />
   <img src='https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white' alt='java' />
+  <img src='https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white' alt='kotlin' />
   <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white' alt='python' />
 </div>
 <div style="display: flex;" align="center">
   <img src='https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white' alt='vagrant' />
+  <img src='https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white' alt='terraform' />
   <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white' alt='docker' />
   <img src='https://img.shields.io/badge/Actions-2496ED?style=for-the-badge&logo=GitHub%20Actions&logoColor=white' alt='actions' />
   <img src='https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white' alt='aws' />
