@@ -11,8 +11,6 @@
 <div style="display: flex;" align="center">
   <img src='https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=C&logoColor=white' alt='c' />
   <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white' alt='python' />
-  <img src='https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white' alt='java' />
-  <img src='https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white' alt='kotlin' />
 </div>
 <div style="display: flex;" align="center">
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black' alt='linux' />
