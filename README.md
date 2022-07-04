@@ -32,7 +32,7 @@
   <a href="mailto:henriquerocha@tutanota.com">
     <img src='https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail.Ru&logoColor=white' alt='mail' />
   </a>
-  <a href="https://www.linkedin.com/in/henrique-d-b6a59220a/">
+  <a href="https://www.linkedin.com/in/henriqueorocha/">
     <img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' />
   </a>
 </div>
