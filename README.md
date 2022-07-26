@@ -17,11 +17,15 @@ WIP.
 <div style="display: flex;" align="center">
   <img src='https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=C&logoColor=white' alt='c' />
   <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white' alt='python' />
+  <img src='https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white' alt='java' />
   <img src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black' alt='react' />
   <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black' alt='linux' />
   <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white' alt='git' />
+   <img src='https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white' alt='emacs' />
+  <img src='https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white' alt='vim' />
   <br>
   <img src='https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white' alt='aws' />
+  <img src='https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white' alt='vagrant' />
   <img src='https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white' alt='jenkins' />
   <img src='https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white' alt='terraform' />
   <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white' alt='docker' />
