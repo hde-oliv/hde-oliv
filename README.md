@@ -26,6 +26,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hde-oliv&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,roff,makefile,handlebars" />
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hde-oliv&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ------
 ### Contact: 👔
 <div style="display: flex;" align="center">
