@@ -10,9 +10,9 @@ A back-end developer passionate about Cloud and Infrastructure technologies, aim
   <a href="mailto:henriquerocha@tutanota.com">
     <img src='https://img.shields.io/badge/Mail%20Me-EA4335?style=for-the-badge&logo=Mail.Ru&logoColor=white' alt='mail' />
   </a>
-  <a href="https://www.linkedin.com/in/henriqueorocha/">
+<!--   <a href="https://www.linkedin.com/in/henriqueorocha/">
     <img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='linkedin' />
-  </a>
+  </a> -->
 </div>
 
 ## My toolbox
@@ -27,10 +27,10 @@ A back-end developer passionate about Cloud and Infrastructure technologies, aim
   <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white' alt='docker' />
 </div>
 
-## Stats
+<!-- ## Stats
 <div style="display: flex;" align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hde-oliv&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hde-oliv&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss,roff,makefile,handlebars" />
-</div>
+</div> -->
 
 
