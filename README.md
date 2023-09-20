@@ -1,7 +1,3 @@
-<div style="display: flex;" align="center">
-  <img src='banner.jpg' alt='banner' />
-</div>
-
 ## About me
 A back-end developer passionate about Cloud and Infrastructure technologies, aiming to be able to create modern, secure, scalable and reliable applications, applying all my knowledge.  
 
